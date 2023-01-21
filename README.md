@@ -34,3 +34,17 @@ Fragment Shader: 'fragmentShader.frag'
 Both of these files are used for both programs and must be included in the same directory for the programs to run properly.
 
 'q', 'Q', and 'Esc' exit the program.
+
+# Running the Program
+
+- Regular Drawing
+
+![image](https://user-images.githubusercontent.com/95401100/213894500-9c9c0c65-1861-498e-9b3c-7ac16d71cd13.png)
+
+- Line Drawing with Normal Vectors
+
+![image](https://user-images.githubusercontent.com/95401100/213894524-066b95ac-9b19-49c6-beb7-290a928c8b02.png)
+
+- Points
+
+![image](https://user-images.githubusercontent.com/95401100/213894534-e5dc5087-0e1a-47f3-afdf-237651daedcd.png)
